@@ -25,7 +25,7 @@ const SearchBar = ({ onSubmit }) => {
           type="search"
           autoComplete="off"
           autoFocus
-          placeholder="Search images and photos"
+          placeholder="Search images"
         />
         <button type="submit">Search</button>
       </Form>
