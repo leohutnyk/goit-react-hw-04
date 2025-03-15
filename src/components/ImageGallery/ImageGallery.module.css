@@ -5,5 +5,5 @@
   margin-bottom: 32px;
 }
 .gallerycard {
-  width: calc((100% - 72px) / 4);
+  width: calc((100% - 72px) / 3);
 }
